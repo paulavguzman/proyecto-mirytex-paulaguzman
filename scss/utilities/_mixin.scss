@@ -1,0 +1,4 @@
+// mixin
+@mixin colores ($background){
+    background-color: $background;
+}
