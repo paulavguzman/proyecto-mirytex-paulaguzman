@@ -155,7 +155,7 @@ footer .derechos {
 }
 /* GALERIA */
 .galeria {
-  width: 100%;
+  width: 40%;
   margin: 0 auto;
   display: flex;
   justify-content: center;
@@ -169,13 +169,13 @@ footer .derechos {
 
 .tarjeta {
   display: block;
-  height: auto;
+  width: 100%;
   border: solid 1px darkgrey;
 }
 
 .tarjeta img {
-  width: 100%;
-  height: auto;
+  width: inherit;
+  height: 300px;
   transform: scale(0.9);
   border: 3px solid orangered;
   transition: cubic-bezier(0.6, -0.28, 0.74, 0.05) all 0.5s;
