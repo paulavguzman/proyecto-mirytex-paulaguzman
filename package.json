@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/paulavguzman/proyecto-mirytex"
+    "url": "https://github.com/paulavguzman/proyecto-mirytex-paulaguzman"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/paulavguzman/proyecto-mirytex"
+    "url": "https://github.com/paulavguzman/proyecto-mirytex-paulaguzman"
   },
-  "homepage":"https://github.com/paulavguzman/proyecto-mirytex#readme",
+  "homepage":"https://github.com/paulavguzman/proyecto-mirytex-paulaguzman#readme",
   "devDependencies": {
     "node-sass": "^7.0.1",
     "nodemon": "^2.0.16"
